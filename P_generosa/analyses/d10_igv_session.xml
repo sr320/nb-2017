@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/Panopea_generosa-Scaff-10k.fa" hasGeneTrack="false" hasSequenceTrack="true" locus="scaffold213:1-18960" path="/Users/sr320/git-repos/nb-2017/P_generosa/analyses/d10_igv_session.xml" version="8">
+    <Resources>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-120_percmeth-0.bedgraph"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-143_percmeth-2.bedgraph"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-111_percmeth-2.bedgraph"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-113_percmeth-2.bedgraph"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-128_percmeth-1.bedgraph"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-145_percmeth-2.bedgraph"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-135WG_percmeth.bedgraph"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-127_percmeth-1.bedgraph"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/Panopea_generosa-Scaff-10k.fa.out.gff"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-135_percmeth-0.bedgraph"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-103_percmeth-1.bedgraph"/>
+        <Resource path="http://owl.fish.washington.edu/scaphapoda/Sean/Geoduck_Analysis/Day10-hypomethylated-Regions/EPI-135-CpG.bed"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-136_percmeth-0.bedgraph"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-119_percmeth-0.bedgraph"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/Pg-trans-blastn-Scaff-10k-02.gff"/>
+        <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-104_percmeth-1.bedgraph"/>
+    </Resources>
+    <Panel height="565" name="DataPanel" width="1255">
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-135WG_percmeth.bedgraph" name="EPI-135WG_percmeth.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-135_percmeth-0.bedgraph" name="EPI-135_percmeth-0.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/scaphapoda/Sean/Geoduck_Analysis/Day10-hypomethylated-Regions/EPI-135-CpG.bed" name="EPI-135-HypoRegion.bed" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-119_percmeth-0.bedgraph" name="EPI-119_percmeth-0.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-120_percmeth-0.bedgraph" name="EPI-120_percmeth-0.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-136_percmeth-0.bedgraph" name="EPI-136_percmeth-0.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-103_percmeth-1.bedgraph" name="EPI-103_percmeth-1.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-104_percmeth-1.bedgraph" name="EPI-104_percmeth-1.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-127_percmeth-1.bedgraph" name="EPI-127_percmeth-1.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-128_percmeth-1.bedgraph" name="EPI-128_percmeth-1.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-113_percmeth-2.bedgraph" name="EPI-113_percmeth-2.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-145_percmeth-2.bedgraph" name="EPI-145_percmeth-2.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-143_percmeth-2.bedgraph" name="EPI-143_percmeth-2.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-111_percmeth-2.bedgraph" name="EPI-111_percmeth-2.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <Panel height="222" name="FeaturePanel" width="1255">
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="Reference sequence" name="Reference sequence" sortable="false" visible="true"/>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/Pg-trans-blastn-Scaff-10k-02.gff" name="Transcriptome (Gonad) alignment" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/Panopea_generosa-Scaff-10k.fa.out.gff" name="Transposable Elements" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.7141057934508817"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
