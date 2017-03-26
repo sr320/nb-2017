@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Session genome="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/Panopea_generosa-Scaff-10k.fa" hasGeneTrack="false" hasSequenceTrack="true" locus="scaffold733:1-10393" path="/Users/sr320/git-repos/nb-2017/P_generosa/analyses/d10_igv_session.xml" version="8">
+<Session genome="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/Panopea_generosa-Scaff-10k.fa" hasGeneTrack="false" hasSequenceTrack="true" locus="scaffold863:1-13646" path="/Users/sr320/git-repos/nb-2017/P_generosa/analyses/d10_igv_session.xml" version="8">
     <Resources>
         <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-120_percmeth-0.bedgraph"/>
         <Resource path="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-143_percmeth-2.bedgraph"/>
@@ -25,13 +25,13 @@
             <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
         </Track>
         <Track altColor="0,0,178" autoScale="true" color="175,175,175" colorScale="ContinuousColorScale;0.0;8120.0;255,255,255;175,175,175" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/scaphapoda/Sean/Geoduck_Analysis/Geoduck_Bismark_Bam_files/EPI-135WG_S42_L005_R1_001_val_1_bismark_bt2_pe.sorted.bam_coverage" name="EPI-135WG_S42_L005_R1_001_val_1_bismark_bt2_pe.sorted.bam Coverage" showReference="false" snpThreshold="0.2" sortable="true" visible="true">
-            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="478.0" minimum="0.0" type="LINEAR"/>
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="87.0" minimum="0.0" type="LINEAR"/>
         </Track>
         <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-135_percmeth-0.bedgraph" name="EPI-135_percmeth-0.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
             <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
         </Track>
         <Track altColor="0,0,178" autoScale="true" color="175,175,175" colorScale="ContinuousColorScale;0.0;25.0;255,255,255;175,175,175" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://owl.fish.washington.edu/scaphapoda/Sean/Geoduck_Analysis/Geoduck_Bismark_Bam_files/EPI-135_S35_L005_R1_001_val_1_bismark_bt2_pe.sorted.bam_coverage" name="EPI-135_S35_L005_R1_001_val_1_bismark_bt2_pe.sorted.bam Coverage" showReference="false" snpThreshold="0.2" sortable="true" visible="true">
-            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="124.0" minimum="0.0" type="LINEAR"/>
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="32.0" minimum="0.0" type="LINEAR"/>
         </Track>
         <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="http://eagle.fish.washington.edu/cnidarian/2017-Geoduck/d10/EPI-119_percmeth-0.bedgraph" name="EPI-119_percmeth-0.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
             <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="1.0" minimum="0.0" type="LINEAR"/>
