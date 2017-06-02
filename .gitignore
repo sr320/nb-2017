@@ -8,3 +8,7 @@ C_virginica/data/GCA_002022765.1_C_virginica_1.0_genomic.fna.gz
 C_gigas/data/Cg_Gigaton_proteins.fa.zip
 
 C_gigas/data/Cg_Giga_cont_AA.fa.zip
+
+P_adsperus/data/P_adsperus-trans_01.fa
+
+P_adsperus/analyses/P_adsperus-trans_01.tab
