@@ -14,3 +14,9 @@ P_adsperus/data/P_adsperus-trans_01.fa
 P_adsperus/analyses/P_adsperus-trans_01.tab
 
 *.bt2
+
+misc/uniprot_sprot.fasta.gz.1
+
+misc/uniprot_sprot.fasta.gz
+
+O_lurida/data/0001DataS1.fa
