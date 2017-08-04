@@ -19,3 +19,7 @@ a few one-liners
 -max_target_seqs 1 \
 -outfmt 6 
 ```
+
+```
+scp -rp sr320@mox.hyak.uw.edu:/gscratch/srlab/sr320/analyses/ /Volumes/Alanine/wd/17-08-04/
+```
