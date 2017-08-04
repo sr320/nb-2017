@@ -6,7 +6,7 @@
 a few one-liners
 
 
-`xrsync -avz /Volumes/Alanine/wd/ /Volumes/web-1/halfshell/bu-alanine-wd/`    
+`rsync -avz /Volumes/Alanine/wd/ /Volumes/web-1/halfshell/bu-alanine-wd/`    
 
 
 ```
