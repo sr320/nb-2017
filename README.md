@@ -23,3 +23,8 @@ a few one-liners
 ```
 scp -rp sr320@mox.hyak.uw.edu:/gscratch/srlab/sr320/analyses/ /Volumes/Alanine/wd/17-08-04/
 ```
+
+
+```
+rsync -avz sr320@mox.hyak.uw.edu:/gscratch/srlab/sr320/ /var/services/web/halfshell/bu-mox/
+```
