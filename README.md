@@ -28,3 +28,7 @@ scp -rp sr320@mox.hyak.uw.edu:/gscratch/srlab/sr320/analyses/ /Volumes/Alanine/w
 ```
 rsync -avz sr320@mox.hyak.uw.edu:/gscratch/srlab/sr320/ /var/services/web/halfshell/bu-mox/
 ```
+
+```
+today=`date +%m%d_%H%M`
+```
